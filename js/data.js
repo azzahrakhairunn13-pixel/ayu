@@ -6,9 +6,10 @@ const DATA = {
 
   // ---------- VIDEO: ganti id dengan kode setelah "v=" di link YouTube ----------
   VIDEOS: [
-    { id: "g3350zKZMIw", judul: "Pengertian penelusuran informasi", deskripsi: "Dasar-dasar mencari informasi di internet", kata: "dasar pengertian literasi" },
-    { id: "GANTI_ID_2", judul: "Memilih kata kunci yang efektif", deskripsi: "Cara membuat kata kunci agar hasil tepat", kata: "keyword google search" },
-    { id: "GANTI_ID_3", judul: "Menilai kebenaran sumber", deskripsi: "Membedakan sumber terpercaya dan hoaks", kata: "hoaks sumber valid" }
+    { id: "spkuG5JQMBM", judul: "3 Kata Ajaib Google Cari Soal TKA", deskripsi: "Dasar-dasar mencari informasi di internet", kata: "dasar pengertian literasi" },
+    { id: "VAy2_gp91qQ", judul: "Tanda Petik dan Pemenggalan Kata", deskripsi: "Cara membuat kata kunci agar hasil tepat", kata: "keyword google search" },
+    { id: "nzAViSW75ek", judul: "4 Strategi Penelusuran Informasi", deskripsi: "Tips Mencari Informasi TKA dengan Lebih Cepat", kata: "keyword google search" },
+    { id: "Qr6ypCKSRAE", judul: "kisi-kisi TKA matematika terbaru", deskripsi: "cara cari di Google biar gak salah", kata: "hoaks sumber valid" }
   ],
 
   // ---------- LAB RACIK: racik kata kunci Google untuk TKA SMP ----------
